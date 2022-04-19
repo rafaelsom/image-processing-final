@@ -15,7 +15,7 @@ The package image processing is used to:
     
 ## Installation
 
-Use the package manager[pip]() to install package_name
+Use the package manager[pip](https://pypi.org/project/package-name-final/) to install package_name
 
 ## Author
 Rafael
