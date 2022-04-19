@@ -1,5 +1,24 @@
-# image-processing-final
-Criação de pacotes, no bootcamp da DIO, realizando manutenção nos estudos, na terceira tentativa.
+# image_processing
 
-# Link
-[Link do Desafio!!!! 'clique aqui'](https://web.dio.me/project/descomplicando-a-criacao-de-pacotes-de-processamento-de-imagens-em-python/learning/3d3925ad-7a05-4068-9cf9-7f3f7b18e99f?back=/track/cognizant-cloud-data-engineer-2&tab=undefined&moduleId=undefined)
+Description.
+The package image processing is used to:
+  Processing:
+    -Histogram matching
+    -Structural similarity
+    -Resize image
+   Utils:
+    -Read image
+    -Save image
+    -Plot image
+    -Plot result
+    
+    
+## Installation
+
+Use the package manager[pip]() to install package_name
+
+## Author
+Rafael
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
